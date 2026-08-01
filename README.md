@@ -9,7 +9,7 @@ The project covers data cleaning using SQL, KPI calculations, and Power BI dashb
 
 ---
 <div align="center">
-  <img src="Dashboard_1.png" alt="Pizza Sales Analysis Overview" width="900">
+  <img src="Dashboard 1.png" alt="Pizza Sales Analysis Overview" width="900">
 </div>
 
 ---
