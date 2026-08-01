@@ -9,7 +9,7 @@ The project covers data cleaning using SQL, KPI calculations, and Power BI dashb
 
 ---
 <div align="center">
-  <img src="Image/Dashboard_1.png" alt="Pizza Sales Analysis Overview" width="900">
+  <img src="Dashboard_1.png" alt="Pizza Sales Analysis Overview" width="900">
 </div>
 
 ---
@@ -83,7 +83,7 @@ The dataset contains pizza sales transactions including:
 ## 📈 Dashboard Insights
 
 <div align="center">
-  <img src="Image/Dashboard 2.png" alt="Best and Worst Sellers Analysis" width="900">
+  <img src="Dashboard 2.png" alt="Best and Worst Sellers Analysis" width="900">
 </div>
 
 ### Sales Performance
