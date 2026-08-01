@@ -8,7 +8,7 @@ The goal is to transform raw sales data into meaningful KPIs and interactive das
 The project covers data cleaning using SQL, KPI calculations, and Power BI dashboard development to visualize revenue, orders, and product performance.
 
 <div align="center">
-  <img src="Image/Dashboard_1.png" alt="Pizza Sales Analysis Overview" width="900">
+  <img src="Image/Dashboard 1.png" alt="Pizza Sales Analysis Overview" width="900">
 </div>
 
 ---
@@ -82,7 +82,7 @@ The dataset contains pizza sales transactions including:
 ## 📈 Dashboard Insights
 
 <div align="center">
-  <img src="Image/Dashboard_2.png" alt="Best and Worst Sellers Analysis" width="900">
+  <img src="Image/Dashboard 2.png" alt="Best and Worst Sellers Analysis" width="900">
 </div>
 
 ### Sales Performance
